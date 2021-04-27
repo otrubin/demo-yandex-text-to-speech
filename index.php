@@ -107,10 +107,6 @@
                   echo $tr;
                 }
               ?>
-              <tr>
-                <td>Mark</td>
-                <td>Otto</td>
-              </tr>
             </tbody>
           </table>
           </div>
