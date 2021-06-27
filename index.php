@@ -1,5 +1,5 @@
 <?php
-require_once './speechkit.php';
+require_once './SpeechKit.php';
 require_once './helpers.php';
 require_once './YandexIamToken.php';
 require_once './config.php';
